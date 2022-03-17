@@ -1,1 +1,3 @@
-# te-the-basics-app-gradle
+# jte-the-basics-app-gradle
+
+Hello, World!
